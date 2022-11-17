@@ -17,7 +17,7 @@ My knowledge base mainly includes my scientific research paper code, paper repro
 |-----------------|--------------------------------------------------------------|----------------------------------------|
 | `Net-Model`     | `Thesis organization and code implementation`                | https://github.com/Yu-xm/Net-Model.git |
 
-<h1 align="center"> <img src="https://github.com/Yu-xm/Yu-xm/blob/main/img/bongo_blob.gif" width="50"/> My Organization </h1>
+<h1 align="center"> <img src="https://github.com/Yu-xm/Yu-xm/blob/main/img/star.gif" width="50"/> My Organization </h1>
 
 | Organization    | Brief introduction                  | URL                                    |
 |-----------------|-------------------------------------|----------------------------------------|
