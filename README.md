@@ -9,7 +9,7 @@ I am a Chinese college student majoring in Data Science and Big Data Technology 
 
 
 
-<h1 align="center"> My Repositories </h1>
+<h1 align="center"> <img src="https://github.com/Yu-xm/Yu-xm/blob/main/img/60fps_parrot.gif" width="50"/> My Repositories </h1>
 
 My knowledge base mainly includes my scientific research paper code, paper reproduction summary, simple deep learning framework, etc.
 
