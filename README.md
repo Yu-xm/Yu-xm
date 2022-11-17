@@ -14,9 +14,11 @@ I am a Chinese college student majoring in Data Science and Big Data Technology 
 My knowledge base mainly includes my scientific research paper code, paper reproduction summary, simple deep learning framework, etc.
 
 <div align="center">
+  
 | Repositories      | Brief introduction                                             | URL                                    |
 |:-----------------:|:--------------------------------------------------------------:|:--------------------------------------:|
 | `Net-Model`       | `Thesis organization and code implementation`                  | https://github.com/Yu-xm/Net-Model.git |
+  
 </div>
 
 <h1 align="center"> <img src="https://github.com/Yu-xm/Yu-xm/blob/main/img/quad_parrot.gif" width="50"/> My Organization </h1>
