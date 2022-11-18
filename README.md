@@ -17,7 +17,7 @@ My knowledge base mainly includes my scientific research paper code, paper repro
   
 | Repositories      | Brief introduction                                             | URL                                    |
 |:-----------------:|:--------------------------------------------------------------:|:--------------------------------------:|
-| `Net-Model`       | `Thesis organization and code implementation`                  | https://github.com/Yu-xm/Net-Model.git |
+| `Net-Model`       | `Thesis explanation and code implementation`                   | https://github.com/Yu-xm/Net-Model.git |
 | `books`           | `store ebooks on AI`                                           | https://github.com/Yu-xm/books.git     |
   
 </div>
