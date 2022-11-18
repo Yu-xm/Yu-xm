@@ -26,10 +26,10 @@ My knowledge base mainly includes my scientific research paper code, paper repro
 
 <div align="center">
 
-| Organization    | Brief introduction                  | URL                                    | 
-|:---------------:|:-----------------------------------:|:--------------------------------------:|
-| `DataWhale`     | `AI Open Source Organization`       | https://github.com/datawhalechina      |
-| `DSRA`          | `QUST AI Community`                 | https://github.com/QUST-DSRA           |
+| Organization    | Brief introduction                                       | URL                                    | 
+|:---------------:|:--------------------------------------------------------:|:--------------------------------------:|
+| `DataWhale`     | `AI Open Source Organization`                            | https://github.com/datawhalechina      |
+| `DSRA`          | `AI Association named Data Science Research Association` | https://github.com/QUST-DSRA           |
 
 </div>
 
