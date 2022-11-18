@@ -33,7 +33,7 @@ My knowledge base mainly includes my scientific research paper code, paper repro
 
 </div>
 
-[Qingdao University of Science and Technology]: https://www.qust.edu.cn
+[Qingdao University of Science and Technology (QUST)]: https://www.qust.edu.cn
 [Data Science Research Association (DSRA)]: https://github.com/QUST-DSRA
 [DataWhale]: https://datawhale.club
 
